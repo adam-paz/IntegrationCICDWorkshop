@@ -2,19 +2,15 @@
 
 ## Introduction
 
-This workshop walks you through all the steps to get started using the **Oracle Autonomous Data Warehouse (ADW)** for departmental reporting. You will provision a new ADW instance, load data from excel sheets, manage an ADW instance, scale an ADW instance, and use Oracle Analytics Cloud to build visualizations.
+This workshop walks you through how to create a Continuous Integration and Continuous Delivery(CICD) Pipeline for Oracle Integration Cloud(OIC) Artifacts
 
 **Objectives**
 
--   Provision a new ADW instance
+-   Set Up CICD Pipeline
 
--   Load data
+-   Export Integrations from Oracle Integration Cloud
 
--   Manage and Monitor an ADW instance
-
--   Scale an ADW instance
-
--   Use Oracle Data Visualization Cloud with ADW
+-   Understand how each part of the CICD Pipeline works together
 
 **How to Get Your Free Cloud Trial Account**
 
@@ -27,34 +23,6 @@ This workshop walks you through all the steps to get started using the **Oracle
 >
 > Once your trial account is created, you will receive a Welcome to Oracle Cloud email that contains your cloud account password along with links to useful collateral. Click here to sign into the Oracle Cloud, go to: [*https://cloud.oracle.com*](https://myservices.us.oraclecloud.com/mycloud/signup?language=en&sourceType=:ex:tb:::RC_NAMK181017P00031:ADW_IMHOL&SC=:ex:tb:::RC_NAMK181017P00031:ADW_IMHOL&pcode=NAMK181017P00031)
 
-
-
-**Before You Begin**
-
-> **What is an Autonomous Data Warehouse?**
->
-> Oracle Autonomous Data Warehouse provides an easy-to-use, fully autonomous database that scales elastically, delivers fast query performance and requires no database administration.
->
-> Oracle’s Autonomous Data Warehouse is the perfect quick-start service for fast data loading and sophisticated data reporting and analysis. Oracle manages everything for you so you can focus on your data.
->
-> Read on to begin ‘Getting Started journey with Oracle Autonomous Data Warehouse’.
->
-> **Lab Prerequisites**\
-> This workshop needs a desktop tool to be installed on your computer to do the exercises in this lab.
->
-> *1. SQL Developer*\
-> To download and install SQL Developer please follow [*this link*](http://www.oracle.com/technetwork/developer-tools/sql-developer/downloads/index.html), and select the operating system for your computer. This page also has instructions on how to install SQL Developer on Windows, Mac OSX and Linux.
->
-> First you must accept the license agreement and then choose the version of SQL Developer based on your operating system.
-![](images/1.png)
->
-> If you already have SQL Developer installed on your computer then please check the version - The recommended version is 18.3 or higher as this version contains enhancements for key Autonomous Data Warehouse features, including using ADW behind a VPN or Firewall, you can check the version by simply opening up SQL Developer and as the application loads you can see the version to the right.
-> 
-![](images/2.png)
-
-> *2. Data Files*\
-> To download go to the GitHub repository and download ‘**EXPENSE\_SUMMARY.xlsx**’ and ‘**FINANCIAL\_SUMMARY.xlsx**’
->
 > **Getting Help During This Workshop**\
 > ![](images/pic2.png)
 >
