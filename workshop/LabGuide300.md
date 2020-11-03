@@ -210,5 +210,3 @@ git push
 ```
 
 This is a brief overview of what the code does. Please feel free to edit your script to make it work for your use cases this is just a simple outline that can be built off of.
-
-For lab conclusions please see lab 400.
